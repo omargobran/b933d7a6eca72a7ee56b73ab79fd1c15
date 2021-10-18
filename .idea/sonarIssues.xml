@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.3.5/3622ca880ed637740e391a55d7cd5d0869285d29/navigation-fragment-2.3.5-sources.jar!/androidx/navigation/fragment/NavHostFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/dao/SpaceshipDao_Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/SpaceApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/dao/SpaceStationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/SpaceStationEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/typeConverter/CoordinateConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/SpaceApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/SpaceDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/dao/SpaceStationDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/dao/SpaceshipDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/Coordinate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/CoordinateEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/SpaceShipEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/SpaceStationEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/SpaceshipEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/model/VideoGameEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/typeConverter/BaseTypeConverter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/typeConverter/CoordinateConverter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/typeConverter/SpaceStationConverter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/util/CoordinatEntityMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/util/CoordinateEntityMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/util/SpaceStationEntityMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/cache/util/SpaceshipEntityMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/di/CacheModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/di/NetworkModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/domain/model/Coordinate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/domain/model/Distance.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/domain/model/SpaceStation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/domain/model/Spaceship.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/domain/util/EntityMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/Response.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationResponse2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationRetrofit.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/SpaceStationService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/model/SpaceStationDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/response/SpaceStationResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/network/util/SpaceStationDtoMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/repository/LocalRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/repository/RemoteRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/repository/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/CustomSeekBar.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/SpaceshipActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/RecyclerViewAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/VideoGameAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/ViewPagerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/holder/RecyclerViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/holder/RecyclerViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/holder/VideoGameViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/holder/ViewPagerHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/adapter/holder/ViewPagerViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/callback/FilterErrorCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/callback/RecyclerViewCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/callback/TimerCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/callback/VideoGameCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/callback/ViewPagerCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/favorites/FavoritesFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/favorites/FavoritesViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/home/StationFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/home/StationsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/home/StationsViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/notifications/FavoritesFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/notifications/FavoritesViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/notifications/FavoritessViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/spaceship/SpaceshipFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/spaceship/SpaceshipViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/StationFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/StationViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/adapter/VideoGamePagerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/adapter/ViewPagerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/adapter/holder/VideoGamePagerViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/adapter/holder/ViewPagerViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/station/callback/ViewPagerCallback.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/stations/StationsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/ui/stations/StationsViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/util/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/util/CustomTimer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/util/State.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/util/VideoGamesFilter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/b933d7a6eca72a7ee56b73ab79fd1c15/util/ViewPagerFilter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_filled_star.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_rocket.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/layout_rounded_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/text_view_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_spaceship.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/custom_seek_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_favorites.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_spaceship.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_station.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_recycler_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_view_pager.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/searchable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Video-Games/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Video-Games/app/src/main/res/layout/details_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/MPos.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/common/ConnectionInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/common/helper/RuntimeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/common/helper/RuntimeRequestHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/helper/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/helper/RuntimeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/activity/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/activity/CancelReceiptActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/activity/SoftPosActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/activity/TerminalActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/activity/details/DetailFragmentContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/SettingsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/detail/CloseProvizyonFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/detail/FinalResultDetailFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/detail/LoyaltyInstallmentFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/detail/LoyaltyPointsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/home/FinalResultFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/home/InputFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/view/fragment/home/SelectionFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/java/com/procenne/mpos/viewmodel/models/BaseViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/res/layout/activity_insert_card.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../genericmposyedek/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/java/com/procenne/sunmicardlib/CardLibInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/java/com/procenne/sunmicardlib/CardOp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/java/com/procenne/sunmicardlib/EmvUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/java/com/procenne/sunmicardlib/Engine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/java/com/procenne/sunmicardlib/MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sunmicardlib/app/src/main/res/layout/activity_pin_pad_custom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/allatori.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/EMVTxn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/Engine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/ISOMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/PriorityHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/TechPosInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../techposlibyedek/app/src/main/java/com/dgpays/techposlib/VTerm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

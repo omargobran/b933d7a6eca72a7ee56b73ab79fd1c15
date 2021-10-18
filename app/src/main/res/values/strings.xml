@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">B933D7A6ECA72A7EE56B73AB79FD1C15</string>
+    <string name="title_station">İstasyon</string>
+    <string name="title_favorites">Favoriler</string>
+    <string name="title_spaceship">Uzay Aracı</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

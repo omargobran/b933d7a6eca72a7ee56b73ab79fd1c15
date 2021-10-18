@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <variable
+            name="spaceStation"
+            type="com.example.b933d7a6eca72a7ee56b73ab79fd1c15.domain.model.SpaceStation" />
+
+        <variable
+            name="spaceship"
+            type="com.example.b933d7a6eca72a7ee56b73ab79fd1c15.domain.model.Spaceship" />
+
+        <variable
+            name="distance"
+            type="com.example.b933d7a6eca72a7ee56b73ab79fd1c15.domain.model.Distance" />
+
+        <variable
+            name="onClickListener"
+            type="android.view.View.OnClickListener" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:enabled="@{!spaceStation.visited}"
+        android:background="@drawable/layout_rounded_bg"
+        android:padding="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/linear_layout_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical|start"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text='@{spaceStation.capacity + "/" + spaceStation.need}'
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text='@{distance.value+"EUS"}'
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/favorite_button"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|end"
+                android:background="@color/transparent"
+                android:onClickListener="@{onClickListener}"
+                android:src="@{spaceStation.favorite ? @drawable/ic_filled_star : @drawable/ic_outline_star}" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/station_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:text="@{spaceStation.name}"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toTopOf="@+id/travel_button"
+            app:layout_constraintEnd_toEndOf="@+id/linear_layout_header"
+            app:layout_constraintStart_toStartOf="@+id/linear_layout_header"
+            app:layout_constraintTop_toBottomOf="@+id/linear_layout_header" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/travel_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="55dp"
+            android:gravity="center"
+            android:onClickListener="@{onClickListener}"
+            android:text="Travel"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/linear_layout_header"
+            app:layout_constraintStart_toStartOf="@+id/linear_layout_header" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_filled_star.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_mic.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_outline_star.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_rocket.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/ic_rocket_1.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/layout_rounded_bg.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/drawable/text_view_bg.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_spaceship.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/custom_seek_bar.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/fragment_spaceship.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/fragment_station.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/fragment_stations.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/item_recycler_view.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/item_view_pager.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/spaceship_activity2_activity.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/layout/spaceship_fragment.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/spaceship_fragment2.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/xml/searchable.xml" value="0.28804347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
